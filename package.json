@@ -1,0 +1,17 @@
+{
+  "name": "zod-bug",
+  "version": "1.0.0",
+  "main": "index.js",
+  "private": "true",
+  "dependencies": {
+    "zod": "^3.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^15.12.5",
+    "ts-node": "^10.0.0",
+    "typescript": "^4.3.4"
+  },
+  "scripts": {
+    "start": "ts-node src/index.ts"
+  }
+}
